@@ -1,4 +1,4 @@
-// 首先定义模型配置
+// 首先定义模 型配置
 export const modelConfigs = [
   {
     model: "qwen-plus",
