@@ -46,7 +46,7 @@ export const modelConfigs = [
     baseURL: "https://api.moonshot.cn/v1"
   },
   {
-    model: "ernie-3.5-128k",
+    model: "ernie-4.5-8k-preview",
     apiKey: "BAIDU_API_KEY",
     baseURL: "https://qianfan.baidubce.com/v2"
   }
